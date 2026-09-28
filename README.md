@@ -156,4 +156,5 @@ The catalogue follows the suggested JSON shape, with two deliberate changes:
 - Search courses and per-lesson notes (the remaining bonus items).
 - Typed translation keys (easy_localization code generation) instead of string keys.
 - Real course thumbnails, and bilingual course content in the JSON.
-- More testing on Android and on small or large phones, plus CI running `flutter analyze` and `flutter test`.
+- Add App Icon and Native splash screen
+- Polish UI/UX
