@@ -1,0 +1,110 @@
+{
+  "courses": [
+    {
+      "id": "anatomy-101",
+      "title": "مقدمة في التشريح",
+      "instructor": "د. سارة",
+      "thumbnail": "assets/images/course1.png",
+      "sections": [
+        {
+          "id": "anatomy-s1",
+          "title": "الجهاز الهيكلي",
+          "lessons": [
+            {
+              "id": "anatomy-l1",
+              "title": "العظام",
+              "durationSec": 135,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "anatomy-l2",
+              "title": "أنواع العظام",
+              "durationSec": 184,
+              "video": "assets/videos/lesson2.mp4"
+            },
+            {
+              "id": "anatomy-l3",
+              "title": "المفاصل وأنواعها",
+              "durationSec": 199,
+              "video": "assets/videos/lesson3.mp4"
+            }
+          ]
+        },
+        {
+          "id": "anatomy-s2",
+          "title": "الجهاز العضلي",
+          "lessons": [
+            {
+              "id": "anatomy-l4",
+              "title": "العضلات الهيكلية",
+              "durationSec": 135,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "anatomy-l5",
+              "title": "انقباض العضلات",
+              "durationSec": 184,
+              "video": "assets/videos/lesson2.mp4"
+            },
+            {
+              "id": "anatomy-l6",
+              "title": "الأوتار والأربطة",
+              "durationSec": 199,
+              "video": "assets/videos/lesson3.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physiology-101",
+      "title": "مبادئ علم وظائف الأعضاء",
+      "instructor": "د. أحمد",
+      "thumbnail": "assets/images/course2.png",
+      "sections": [
+        {
+          "id": "physiology-s1",
+          "title": "الخلية",
+          "lessons": [
+            {
+              "id": "physiology-l1",
+              "title": "تركيب الخلية",
+              "durationSec": 135,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "physiology-l2",
+              "title": "الغشاء الخلوي",
+              "durationSec": 184,
+              "video": "assets/videos/lesson2.mp4"
+            },
+            {
+              "id": "physiology-l3",
+              "title": "النقل عبر الغشاء",
+              "durationSec": 199,
+              "video": "assets/videos/lesson3.mp4"
+            }
+          ]
+        },
+        {
+          "id": "physiology-s2",
+          "title": "الجهاز العصبي",
+          "lessons": [
+            {
+              "id": "physiology-l4",
+              "title": "الخلايا العصبية",
+              "durationSec": 135,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "physiology-l5",
+              "title": "السيالات العصبية",
+              "durationSec": 184,
+              "video": "assets/videos/lesson2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
