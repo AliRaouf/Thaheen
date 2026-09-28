@@ -156,5 +156,6 @@ The catalogue follows the suggested JSON shape, with two deliberate changes:
 - Search courses and per-lesson notes (the remaining bonus items).
 - Typed translation keys (easy_localization code generation) instead of string keys.
 - Real course thumbnails, and bilingual course content in the JSON.
-- Add App Icon and Native splash screen
+- Add app icon and native splash screen
+- Add notes per lesson so that the user can track his learning notes
 - Polish UI/UX
